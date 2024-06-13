@@ -7,7 +7,7 @@
     flex-direction: column;
     font-family: 'Inter', sans-serif;
     /* filter: brightness(40%) */
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url('./Comitems/backgroung.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url('/SvoiFrontend/Comitems/backgroung.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;

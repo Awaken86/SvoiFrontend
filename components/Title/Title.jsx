@@ -13,7 +13,7 @@ const Title = () => {
             </div>
             <div className={style.descriptionContainer}>
                 <div className={style.imgContainer}>
-                    <img src="./Comitems/3com.jpg"></img>
+                    <img src="/SvoiFrontend/Comitems/3com.jpg"></img>
                 </div>
                 <div className={style.description}>
                     <h1>Лучший бар для вашего вечера!</h1>
@@ -26,9 +26,9 @@ const Title = () => {
             <div className={style.eventsContainer}>
                 <h1>Мероприятия</h1>
                 <div className={style.eventsImgContainer}>
-                    <img src="./Comitems/2ZONJ123PRJyF4.jpg"></img>
-                    <img src="./Comitems/kuaev1qGs48.jpg"></img>
-                    <img src="./Comitems/Bzqbnb3T4.jpg"></img>
+                    <img src="/SvoiFrontend/Comitems/2ZONJ123PRJyF4.jpg"></img>
+                    <img src="/SvoiFrontend/Comitems/kuaev1qGs48.jpg"></img>
+                    <img src="/SvoiFrontend/Comitems/Bzqbnb3T4.jpg"></img>
                 </div>
             </div>
         </div>
