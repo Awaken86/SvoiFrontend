@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #000;
+    color: #fff;
+    height: 70px;
+    
+}
+
+span {
+    margin: 0 20px 0 20px;
+    font-family: 'FreeMono, monospace';
+    font-weight: 600;
+
+}
+
+.linkedImg {
+    height: auto;
+    width: 160px;
+    margin: 0 10% 0 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+.linkedImg img {
+    height: auto;
+    width: 160px;
+}
+
+.link {
+    text-decoration: none;
+    color: inherit;
+    width: 150px;
+}

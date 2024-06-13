@@ -1,0 +1,27 @@
+.container{
+    column-count: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    height: 60vh;
+}
+.contactsList{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    padding: 20px
+}
+.title{
+    font-size: 25px;
+    margin-bottom: 20px;
+    font-family:'Courier New', Courier, monospace;
+    
+    
+}
+.greyText{
+    font-size: 18px;
+    color: rgb(85, 85, 85);
+    font-family:'Courier New', Courier, monospace;
+    margin: 5px;
+}
