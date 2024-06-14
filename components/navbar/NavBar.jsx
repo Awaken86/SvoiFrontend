@@ -1,7 +1,7 @@
 import style from './NavBar.module.css';
 import { Link } from 'react-router-dom';
 const Navbar = () => {
-
+//test
     return (
         <div className={style.container}>
             <Link className={style.link} to="/SvoiFrontend"><span>О НАС</span></Link>
